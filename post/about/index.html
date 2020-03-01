@@ -67,7 +67,7 @@ With regard to ongoing or planned government IT projects over $1 million: (a) wh
 
 <p>Government of Canada departments and agencies were required to provide a list of all existing or planned government IT projects over $1 million, as of May 1, 2019.</p>
 
-<p>These responses were collected in sessional paper <a href="/pdf/8555-421-2460.pdf">8555-421-2460</a>. Sessional papers are public information; they can be requested by <a href="mailto:info@parl.gc.ca">emailing the Library of Parliament</a>.</p>
+<p>These responses were collected in sessional paper <a href="https://large-government-of-canada-it-projects.github.io/pdf/8555-421-2460.pdf">8555-421-2460</a>. Sessional papers are public information; they can be requested by <a href="mailto:info@parl.gc.ca">emailing the Library of Parliament</a>.</p>
 
 <p>For each project, the data includes:</p>
 
@@ -120,7 +120,7 @@ With regard to ongoing or planned government IT projects over $1 million: (a) wh
               
             </ul>
             <p class="copyright text-muted" style="text-align:left;">
-                    An <a href="https://ottawacivictech.ca/">Ottawa Civic Tech</a> project. <a href="#">View on GitHub</a>.
+                    An <a href="https://ottawacivictech.ca/" target="_blank">Ottawa Civic Tech</a> project. <a href="https://github.com/YOWCT/large-government-of-canada-it-projects" target="_blank">View on GitHub</a>.
             </p>
 			    </div>
         </div>
@@ -141,7 +141,13 @@ With regard to ongoing or planned government IT projects over $1 million: (a) wh
     $('#2019-data-table').DataTable( {
         "order": [[ 2, "desc" ]],
 				"lengthMenu": [[20, 50, 100, -1], [20, 50, 100, "All"]]
-    } );
+		} );
+		
+		
+		
+		$("#main a[href^='http://']").attr("target","_blank");
+		$("#main a[href^='https://']").attr("target","_blank");
+		
 } );
 </script>
 </body>
