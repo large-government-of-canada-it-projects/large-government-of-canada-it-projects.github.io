@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Large Government of Canada IT projects</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on Large Government of Canada IT projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Feb 2020 20:49:35 -0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/post/about/</link>
+      <pubDate>Sat, 29 Feb 2020 20:49:35 -0800</pubDate>
+      
+      <guid>https://example.com/post/about/</guid>
+      <description>Jump to the results
+About this data This data was collected in response to a written question in the House of Commons from May 1, 2019. The question read:
+ Q-2460 – May 1, 2019 – Mr. Lauzon (Stormont-Dundas-South Glengarry)
+With regard to ongoing or planned government IT projects over $1 million: (a) what is the list of each project, including a brief description; and (b) for each project listed in (a), what is the (i) total budget, (ii) estimated completion date?</description>
+    </item>
+    
+    <item>
+      <title>Table data</title>
+      <link>https://example.com/post/table/</link>
+      <pubDate>Sat, 29 Feb 2020 20:49:35 -0800</pubDate>
+      
+      <guid>https://example.com/post/table/</guid>
+      <description>List of Government of Canada IT projects over $1 million Self-reported by departments, as of May 1, 2019. Download this data in CSV format.
+  Department Description Total cost Estimated completion date Years remaining    Privy Council Office The Secure Communications for National Leadership (SCNL), mentioned in the 2019-2020 Privy Council Office Departmental Plan is a joint Privy Council Office and Communications Security Establishment wide initiative to provide Canada&#39;s Senior Government Officials with modern and secure means of communications at the Secret level.</description>
+    </item>
+    
+  </channel>
+</rss>
