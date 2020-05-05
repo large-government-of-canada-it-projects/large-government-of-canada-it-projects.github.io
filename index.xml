@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Large Government of Canada IT projects</title>
@@ -65,7 +65,7 @@ For each project, the data includes:</description>
       
       <guid>https://large-government-of-canada-it-projects.github.io/post/table/</guid>
       <description>List of Government of Canada IT projects over $1 million Self-reported by departments. Download this data in CSV format.
-  Department Project Name 2016 Budget 2019 Budget Change in Budget % Change 2016 Estimated completion date 2019 Estimated completion date Change in completion date (years) Estimated status    Immigration, Refugees and Citizenship Canada Passport Modernization Initiative $28,713,419 $199,500,000 $170,786,581 85.61% December&amp;nbsp;1,&amp;nbsp;2018 September&amp;nbsp;30,&amp;nbsp;2021 2.83 behind schedule  Public Services and Procurement Canada eProcurement Solution $45,900,000 $214,474,730 $168,574,730 78.</description>
+  Department Project Name 2016 Budget 2019 Budget Change in Budget % Change 2016 Estimated completion date 2019 Estimated completion date Change in completion date (years) Estimated status    Immigration, Refugees and Citizenship Canada Passport Modernization Initiative $28,713,419 $199,500,000 $170,786,581 594.8% December&amp;nbsp;1,&amp;nbsp;2018 September&amp;nbsp;30,&amp;nbsp;2021 2.83 behind schedule  Public Services and Procurement Canada eProcurement Solution $45,900,000 $214,474,730 $168,574,730 367.</description>
     </item>
     
   </channel>
