@@ -6,10 +6,18 @@
     <description>Recent content on Large Government of Canada IT projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 12:55:28 -0700</lastBuildDate>
-    
-	<atom:link href="https://large-government-of-canada-it-projects.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 08 Aug 2022 20:27:23 -0700</lastBuildDate><atom:link href="https://large-government-of-canada-it-projects.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 Data</title>
+      <link>https://large-government-of-canada-it-projects.github.io/2022/</link>
+      <pubDate>Mon, 08 Aug 2022 20:27:23 -0700</pubDate>
+      
+      <guid>https://large-government-of-canada-it-projects.github.io/2022/</guid>
+      <description>Jump to the data
+This data was collected in response to a written question in the House of Commons from April 25, 2022. The question read:
+ Q-505² — April 25, 2022 — Mr. Lake (Edmonton—Wetaskiwin)
+With regard to ongoing or planned government IT projects with a budget over $1 million: what are the details of each project, including the (i) project description and summary, (ii) total budget, (iii) estimated completion date?</description>
+    </item>
     
     <item>
       <title>About pt. 2</title>
@@ -17,9 +25,9 @@
       <pubDate>Sat, 18 Apr 2020 12:55:28 -0700</pubDate>
       
       <guid>https://large-government-of-canada-it-projects.github.io/post/index-2/</guid>
-      <description>Are large IT projects likely to be successful? Of the 98 projects that appear in both datasets, 84% are behind schedule, 8% are on schedule, and 4% are ahead of schedule based on the estimated completion dates provided. The remaining 4% did not have estimated completion dates listed for both years.
-Among projects from 2016, the following proportion were either completed, on schedule, or ahead of schedule:
- 70% of projects smaller than $10M 52% of projects between $10M and $100M 35% of projects over $100M  Of the 2016 projects that were over $100M, 65% were either behind schedule or not listed in the 2019 data despite an estimated completion date later in the future.</description>
+      <description>Are large IT projects likely to be successful? Of the 192 projects that appear in multiple datasets, 86% are behind schedule, 9% are on schedule, and 5% are ahead of schedule based on the estimated completion dates provided.
+Among projects from 2016 and 2019, the following proportion were either completed, on schedule, or ahead of schedule:
+ 73% of projects smaller than $10M 59% of projects between $10M and $100M 39% of projects over $100M  Of the 2016 and 2019 projects that were over $100M, 61% were either behind schedule or not listed in the 2022 data despite an estimated completion date later in the future.</description>
     </item>
     
     <item>
@@ -53,9 +61,8 @@ With regard to existing or planned government IT projects over $1 million: (a) w
       
       <guid>https://large-government-of-canada-it-projects.github.io/post/index-1/</guid>
       <description>Combined Data Jump to the data
-This data was collected in response to two written questions in the House of Commons, from June 2016 and May 2019. Each question asked federal government departments to report ongoing or planned IT projects over $1M.
-These responses were collected in two sessional papers, 8555-421-266 and 8555-421-2460. Sessional papers are public information; they can be requested by emailing the Library of Parliament.
-For each project, the data includes:</description>
+This data was collected in response to three written questions in the House of Commons, from June 2016, May 2019, and April 2022. Each question asked federal government departments to report ongoing or planned IT projects over $1M.
+These responses were collected in three sessional papers: 8555-421-266, 8555-421-2460, and 8530-441-13-505-b. Sessional papers are public information; they can be requested by emailing the Library of Parliament.</description>
     </item>
     
     <item>
@@ -65,7 +72,7 @@ For each project, the data includes:</description>
       
       <guid>https://large-government-of-canada-it-projects.github.io/post/table/</guid>
       <description>List of Government of Canada IT projects over $1 million Self-reported by departments. Download this data in CSV format.
-  Department Project Name 2016 Budget 2019 Budget Change in Budget % Change 2016 Estimated completion date 2019 Estimated completion date Change in completion date (years) Estimated status    Immigration, Refugees and Citizenship Canada Passport Modernization Initiative $28,713,419 $199,500,000 $170,786,581 594.8% December&amp;nbsp;1,&amp;nbsp;2018 September&amp;nbsp;30,&amp;nbsp;2021 2.83 behind schedule  Public Services and Procurement Canada eProcurement Solution $45,900,000 $214,474,730 $168,574,730 367.</description>
+  Department Project Name Original Budget Latest Budget Change in Budget % Change Original Estimated completion date Latest Estimated completion date Change in completion date (years) Estimated status    Agriculture and Agri-Food Canada Departmental Client Relationship Management (CRM) Software (a.k.a. AgriClient) $2,812,101 (2022) $2,812,101 (2022)   July&amp;nbsp;31,&amp;nbsp;2022 July&amp;nbsp;31,&amp;nbsp;2022  new  Agriculture and Agri-Food Canada BioMOB (Biological Collections and Data Mobilization) – Work Package 3 Data Integration and Information Sharing $4,571,000 (2022) $4,571,000 (2022)   March&amp;nbsp;31,&amp;nbsp;2023 March&amp;nbsp;31,&amp;nbsp;2023  new  Agriculture and Agri-Food Canada Boardroom Modernization $2,408,600 (2022) $2,408,600 (2022)   March&amp;nbsp;31,&amp;nbsp;2024 March&amp;nbsp;31,&amp;nbsp;2024  new  Agriculture and Agri-Food Canada SAP Cluster Solution $6,441,134 (2019) $6,441,134 (2019)   June&amp;nbsp;25,&amp;nbsp;2019 June&amp;nbsp;25,&amp;nbsp;2019  completed  Agriculture and Agri-Food Canada Canadian Agricultural Library Corporate and Rare Book Collection Digitization $1,830,000 (2016) $1,830,000 (2016)   March&amp;nbsp;31,&amp;nbsp;2019 March&amp;nbsp;31,&amp;nbsp;2019  completed  Agriculture and Agri-Food Canada Data Integration and Information Sharing $1,175,000 (2019) $1,175,000 (2019)   April&amp;nbsp;28,&amp;nbsp;2020 April&amp;nbsp;28,&amp;nbsp;2020  completed  Agriculture and Agri-Food Canada e-Discovery Solution $1,235,000 (2019) $1,235,000 (2019)      unknown (no dates specified)  Agriculture and Agri-Food Canada Email Transformation Initiative $1,369,000 (2016) $1,369,000 (2016)   December&amp;nbsp;31,&amp;nbsp;2016 December&amp;nbsp;31,&amp;nbsp;2016  completed  Agriculture and Agri-Food Canada Streamline Grants and Contributions Program Administration $2,601,765 (2019) $2,601,765 (2019)   March&amp;nbsp;29,&amp;nbsp;2022 March&amp;nbsp;29,&amp;nbsp;2022  completed  Agriculture and Agri-Food Canada Grants and Contributions Digital Platform (GCDP) – Release 1 $11,195,560 (2019) $21,289,200 (2022) $10,093,640 90.</description>
     </item>
     
   </channel>
